@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Rust &lt;multibin&gt;">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../stdlib_intellij/rust-1.10.0-src.zip!/rust-1.10.0/src/libstd" />
+      <root url="jar://$PROJECT_DIR$/../stdlib_intellij/rust-1.10.0-src.zip!/rust-1.10.0/src/libcore" />
+      <root url="jar://$PROJECT_DIR$/../stdlib_intellij/rust-1.10.0-src.zip!/rust-1.10.0/src/libcollections" />
+      <root url="jar://$PROJECT_DIR$/../stdlib_intellij/rust-1.10.0-src.zip!/rust-1.10.0/src/liballoc" />
+      <root url="jar://$PROJECT_DIR$/../stdlib_intellij/rust-1.10.0-src.zip!/rust-1.10.0/src/librustc_unicode" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

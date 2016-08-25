@@ -1,0 +1,18 @@
+[package]
+name = "multibin"
+version = "0.1.0"
+authors = ["timglabisch <tim@ainfach.de>"]
+
+[[bin]]
+name = "reducer_day"
+path = "src/bin/reducer_day.rs"
+
+[[bin]]
+name = "mapper_day"
+path = "src/bin/mapper_day.rs"
+
+[lib]
+name = "common"
+path = "src/common/lib.rs"
+
+[dependencies]
